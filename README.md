@@ -1,4 +1,4 @@
-# dashboard
+# Dashboard Configuration
 
 ## Project Setup
 
